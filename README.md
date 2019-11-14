@@ -1,2 +1,2 @@
 # PWNT-water-analysis
-This repo contains code focusing on the analysis of temporal data from different measuring points in the water basins around the PWN facility.
+This repo contains examples for extracting Sentinel-3 satellite data from google earth engine for water chlorophyll/algae monitoring.
